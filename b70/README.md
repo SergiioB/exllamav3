@@ -1,3 +1,6 @@
+> **Moved to [github.com/SergiioB/exl3xpu-mixedk](https://github.com/SergiioB/exl3xpu-mixedk).**
+> This copy is frozen at commit 244f57e and kept so old links resolve. Use the new repository.
+
 # exllamav3 on Intel Arc Pro B70 (Xe2 / BMG)
 
 This directory adds two things for the Intel Arc Pro B70, and nothing else:

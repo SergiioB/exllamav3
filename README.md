@@ -1,8 +1,7 @@
 > [!NOTE]
-> **Intel Arc Pro B70 fork (branch `b70`).** This fork adds [`b70/`](b70/README.md):
-> patches that let [0xSero's exl3xpu](https://github.com/sybil-solutions/exl3xpu) serve mixed-bit
-> (K = 2..7) EXL3 models on the B70, and an ESIMD EXL3 trellis quantizer for the B70. It is
-> B70/Xe2-only; see [b70/README.md](b70/README.md) for what was checked and its limits.
+> **Moved to [github.com/SergiioB/exl3xpu-mixedk](https://github.com/SergiioB/exl3xpu-mixedk).**
+> The Intel Arc Pro B70 work (mixed-K EXL3 serving patches for exl3xpu and the ESIMD quantizer)
+> now lives there. [`b70/`](b70/) stays on this branch so old image source links still resolve.
 > Everything else in this repository is upstream exllamav3 v1.6.1, unchanged.
 
 <p align="center">
